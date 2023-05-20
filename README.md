@@ -1,4 +1,5 @@
-# m5-backend-kenzie-social
+# Módulo 5 - Sprint 7 - Projeto em grupo - Kenzie Social - API de uma Rede Social
+# Contribuido por Diego Guilherme, Lucas Benedito, Ricardo do Vale e Wesley Ricarte
 
 ## Tutorial Inicial:
 
